@@ -11,7 +11,7 @@ Created on Wed July 27 2023
 # Example: 1 -> 11 -> 21 -> 1211 -> 111221
 # The fourth term is derived from the fact that the third term has one 1, then one 2, then two 1s
 
-n = 4
+n = 5
 
 def get_look_and_say(n):
     print(1)
@@ -54,4 +54,4 @@ def translate(number):
     return counts
     
 # Test look and say
-get_look_and_say(4)
+get_look_and_say(n)
