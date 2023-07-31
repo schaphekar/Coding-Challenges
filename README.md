@@ -6,6 +6,13 @@ I created this as a dedicated repository for my solutions to problems from vario
 
 Python is the primary language I have used for these problems, as it offers enhanced readability and "Pythonic" functions such as zip and enumerate that make it much faster to accomplish data manipulation tasks.
 
+### Sources
+
+* Rosalind Problems: https://rosalind.info/problems/locations/
+
+* LeetCode Problems: https://leetcode.com/problemset/all/
+
+* Hackerrank Problems: https://www.hackerrank.com/
 
 
 
