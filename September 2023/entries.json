@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "1526579928",
+    "count": 3,
+    "type": "enter"
+  },
+  {
+    "timestamp": "1526580382",
+    "count": 2,
+    "type": "exit"
+  },
+  {
+    "timestamp": "1526580999",
+    "count": 1,
+    "type": "exit"
+  },
+  {
+    "timestamp": "1526581999",
+    "count": 6,
+    "type": "enter"
+  },
+  {
+    "timestamp": "1526582999",
+    "count": 1,
+    "type": "exit"
+  },
+  {
+    "timestamp": "1526583999",
+    "count": 2,
+    "type": "enter"
+  },
+  {
+    "timestamp": "1526584999",
+    "count": 2,
+    "type": "exit"
+  }
+]
+
